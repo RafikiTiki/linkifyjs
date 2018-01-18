@@ -1,5 +1,5 @@
 {
-  "name": "linkifyjs",
+  "name": "@rafikitiki/linkifyjs",
   "version": "2.1.5",
   "description": "Intelligent link recognition, made easy",
   "repository": {
